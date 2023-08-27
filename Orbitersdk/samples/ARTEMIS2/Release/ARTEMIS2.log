@@ -1,0 +1,151 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (ALPACA1.vcxproj, ALPACAEVA3.vcxproj, ARTEMIS1.vcxproj, ARTEMISCHARIOT.vcxproj, LMHABITAT20161.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ARTEMIS2.CPP
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(8,1): warning C4005: 'NGRP': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(8): message : see previous definition of 'NGRP'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(11,1): warning C4005: 'NMAT': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(11): message : see previous definition of 'NMAT'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(14,1): warning C4005: 'NTEX': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(14): message : see previous definition of 'NTEX'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(17,1): warning C4005: 'GRP_mesh11': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(211): message : see previous definition of 'GRP_mesh11'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(19,1): warning C4005: 'GRP_mesh72': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(147): message : see previous definition of 'GRP_mesh72'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(35,1): warning C4005: 'GRP_mesh27': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(136): message : see previous definition of 'GRP_mesh27'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(38,1): warning C4005: 'GRP_mesh17': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(90): message : see previous definition of 'GRP_mesh17'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(39,1): warning C4005: 'GRP_mesh16': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(102): message : see previous definition of 'GRP_mesh16'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(40,1): warning C4005: 'GRP_mesh15': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(205): message : see previous definition of 'GRP_mesh15'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(41,1): warning C4005: 'GRP_mesh14': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(52): message : see previous definition of 'GRP_mesh14'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(48,1): warning C4005: 'GRP_mesh26': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(18): message : see previous definition of 'GRP_mesh26'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(49,1): warning C4005: 'GRP_mesh20': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(154): message : see previous definition of 'GRP_mesh20'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(50,1): warning C4005: 'GRP_mesh21': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(146): message : see previous definition of 'GRP_mesh21'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(51,1): warning C4005: 'GRP_mesh22': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(206): message : see previous definition of 'GRP_mesh22'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(52,1): warning C4005: 'GRP_mesh23': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(19): message : see previous definition of 'GRP_mesh23'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(53,1): warning C4005: 'GRP_mesh18': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(77): message : see previous definition of 'GRP_mesh18'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(54,1): warning C4005: 'GRP_mesh19': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(150): message : see previous definition of 'GRP_mesh19'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(55,1): warning C4005: 'GRP_mesh01': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(212): message : see previous definition of 'GRP_mesh01'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(56,1): warning C4005: 'GRP_mesh02': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(188): message : see previous definition of 'GRP_mesh02'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(57,1): warning C4005: 'GRP_mesh03': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(119): message : see previous definition of 'GRP_mesh03'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(58,1): warning C4005: 'GRP_mesh04': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(84): message : see previous definition of 'GRP_mesh04'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(59,1): warning C4005: 'GRP_mesh07': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(91): message : see previous definition of 'GRP_mesh07'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(60,1): warning C4005: 'GRP_mesh08': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(49): message : see previous definition of 'GRP_mesh08'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(61,1): warning C4005: 'GRP_mesh05': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(28): message : see previous definition of 'GRP_mesh05'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(62,1): warning C4005: 'GRP_mesh06': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(17): message : see previous definition of 'GRP_mesh06'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(64,1): warning C4005: 'GRP_mesh163': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(193): message : see previous definition of 'GRP_mesh163'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(68,1): warning C4005: 'GRP_mesh161': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(194): message : see previous definition of 'GRP_mesh161'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(69,1): warning C4005: 'GRP_mesh162': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(35): message : see previous definition of 'GRP_mesh162'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(70,1): warning C4005: 'GRP_mesh158': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(37): message : see previous definition of 'GRP_mesh158'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(71,1): warning C4005: 'GRP_mesh159': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(195): message : see previous definition of 'GRP_mesh159'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(72,1): warning C4005: 'GRP_mesh155': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(189): message : see previous definition of 'GRP_mesh155'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(73,1): warning C4005: 'GRP_mesh156': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(38): message : see previous definition of 'GRP_mesh156'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(74,1): warning C4005: 'GRP_mesh152': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(32): message : see previous definition of 'GRP_mesh152'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(75,1): warning C4005: 'GRP_mesh153': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(190): message : see previous definition of 'GRP_mesh153'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(76,1): warning C4005: 'GRP_mesh28': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(148): message : see previous definition of 'GRP_mesh28'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(77,1): warning C4005: 'GRP_mesh160': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(36): message : see previous definition of 'GRP_mesh160'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(78,1): warning C4005: 'GRP_mesh154': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(31): message : see previous definition of 'GRP_mesh154'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(79,1): warning C4005: 'GRP_mesh150': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(33): message : see previous definition of 'GRP_mesh150'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(104,1): warning C4005: 'GRP_mesh157': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(196): message : see previous definition of 'GRP_mesh157'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(126,1): warning C4005: 'GRP_mesh177': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(82): message : see previous definition of 'GRP_mesh177'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(139,1): warning C4005: 'GRP_mesh148': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(34): message : see previous definition of 'GRP_mesh148'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(140,1): warning C4005: 'GRP_mesh149': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(192): message : see previous definition of 'GRP_mesh149'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(141,1): warning C4005: 'GRP_mesh146': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(43): message : see previous definition of 'GRP_mesh146'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(142,1): warning C4005: 'GRP_mesh147': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(201): message : see previous definition of 'GRP_mesh147'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(143,1): warning C4005: 'GRP_mesh144': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(44): message : see previous definition of 'GRP_mesh144'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(144,1): warning C4005: 'GRP_mesh145': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(202): message : see previous definition of 'GRP_mesh145'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(145,1): warning C4005: 'GRP_mesh142': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(45): message : see previous definition of 'GRP_mesh142'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(146,1): warning C4005: 'GRP_mesh143': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(203): message : see previous definition of 'GRP_mesh143'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(147,1): warning C4005: 'GRP_mesh140': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(46): message : see previous definition of 'GRP_mesh140'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(148,1): warning C4005: 'GRP_mesh141': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(204): message : see previous definition of 'GRP_mesh141'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(149,1): warning C4005: 'GRP_mesh138': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(39): message : see previous definition of 'GRP_mesh138'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(150,1): warning C4005: 'GRP_mesh139': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(197): message : see previous definition of 'GRP_mesh139'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(151,1): warning C4005: 'GRP_mesh136': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(40): message : see previous definition of 'GRP_mesh136'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(152,1): warning C4005: 'GRP_mesh137': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(198): message : see previous definition of 'GRP_mesh137'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(153,1): warning C4005: 'GRP_mesh134': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(41): message : see previous definition of 'GRP_mesh134'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(154,1): warning C4005: 'GRP_mesh135': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(199): message : see previous definition of 'GRP_mesh135'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(155,1): warning C4005: 'GRP_mesh132': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(42): message : see previous definition of 'GRP_mesh132'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(156,1): warning C4005: 'GRP_mesh133': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(200): message : see previous definition of 'GRP_mesh133'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(157,1): warning C4005: 'GRP_mesh130': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(138): message : see previous definition of 'GRP_mesh130'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(159,1): warning C4005: 'GRP_mesh128': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(139): message : see previous definition of 'GRP_mesh128'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(160,1): warning C4005: 'GRP_mesh129': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(20): message : see previous definition of 'GRP_mesh129'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(165,1): warning C4005: 'GRP_mesh64': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(51): message : see previous definition of 'GRP_mesh64'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(166,1): warning C4005: 'GRP_mesh37': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(208): message : see previous definition of 'GRP_mesh37'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(168,1): warning C4005: 'GRP_mesh66': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(83): message : see previous definition of 'GRP_mesh66'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(173,1): warning C4005: 'GRP_mesh67': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(101): message : see previous definition of 'GRP_mesh67'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(180,1): warning C4005: 'GRP_mesh68': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(97): message : see previous definition of 'GRP_mesh68'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMISVCMESH.h(186,1): warning C4005: 'GRP_mesh10': macro redefinition
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\SMmesh.h(50): message : see previous definition of 'GRP_mesh10'
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMIS2.CPP(783,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMIS2.CPP(1899,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMIS2.CPP(1904,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMIS2.CPP(1909,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMIS2.CPP(1914,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMIS2.CPP(1919,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMIS2.CPP(1924,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Orbiter2016\Orbitersdk\samples\ARTEMIS2\ARTEMIS2.CPP(3302,28): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+     Creating library ..\..\..\Modules\ARTEMIS2.lib and object ..\..\..\Modules\ARTEMIS2.exp
+  Generating code
+  1 of 86 functions ( 1.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ARTEMIS2.vcxproj -> D:\Orbiter2016\Modules\ARTEMIS2.dll

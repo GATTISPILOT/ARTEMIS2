@@ -193,7 +193,7 @@ ARTEMIS2::ARTEMIS2(OBJHANDLE hObj, int fmodel)
 	mode = 0;
 	CHAIRDEPLOY = 0;
 
-
+	BLOWNFAIRING = 0;
 	WING1ROTATE_proc = .5;
 
 	WING4ROTATE_proc = .5;
